@@ -1,2 +1,4 @@
 Amarelo
 Azul
+Verde
+Rosa
